@@ -6,7 +6,7 @@
 [![twiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tombs_Devil?s=09)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wycj0ljgmzgs90vdczbhndtea?si=SW5z7-3hSVSozO3XpmkCtA&utm_source=copy-link&dl_branch=1)
 
-### **Tecnologias:**
+### **Tecnologias:** 💻
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -18,7 +18,7 @@
 " />
 <div><br/>
 
-### **Ferramentas:**
+### **Ferramentas:** 🚀
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
