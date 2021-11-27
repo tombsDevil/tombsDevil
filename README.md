@@ -25,7 +25,8 @@
 <img align="center" alt="vscode" src="https://img.icons8.com/nolan/48/visual-studio-code-2019.png" />
  <img align="center" alt="linux" src="https://img.icons8.com/dusk/48/000000/linux.png"/>
  <img align="center" alt="gimp" src="https://img.icons8.com/dusk/48/000000/gimp.png" />
-<div><br/>
+ <img align="center" alt="notion" src="https://img.icons8.com/dusk/48/000000/notion.png" />
+ <div><br/>
 
 ### *Programming as hobby.* 🎩
 
