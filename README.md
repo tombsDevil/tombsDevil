@@ -12,11 +12,11 @@
 ### **Tecnologias:** 💻
 
 <div style="display: inline_block"><br/>
- <img align="center" alt="javascript" src="https://img.icons8.com/dusk/48/000000/javascript.png" />
+ <img align="center" alt="javascript" src="https://img.icons8.com/dusk/48/000000/javascript-logo.png" />
  <img align="center" alt="css3" src="https://img.icons8.com/dusk/48/000000/css3.png" />
- <img align="center" alt="html5" src="https://img.icons8.com/external-justicon-lineal-color-justicon/48/000000/external-html-file-file-type-justicon-lineal-color-justicon.png" />
- <img align="center" alt="node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+ <img align="center" alt="html5" src="https://img.icons8.com/dusk/48/000000/html-5.png" />
  <img align="center" alt="mongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+ <img align="center" alt="node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 <div><br/>
 
 ### **Ferramentas:** 🚀
@@ -25,6 +25,7 @@
  <img align="center" alt="vscode" src="https://img.icons8.com/nolan/48/visual-studio-code-2019.png" />
  <img align="center" alt="linux" src="https://img.icons8.com/dusk/48/000000/linux.png"/>
  <img align="center" alt="gimp" src="https://img.icons8.com/dusk/48/000000/gimp.png" />
+ <img align="center" alt="notion" src="https://img.icons8.com/dusk/48/000000/notion.png" />
  <img align="center" alt="notebook" src="https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/48/000000/external-notebook-gadget-photo3ideastudio-lineal-color-photo3ideastudio.png" />
  <img align="center" alt="smartphone" src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/48/000000/external-phone-essentials-icongeek26-outline-gradient-icongeek26.png" />
 <div><br/>
