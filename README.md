@@ -8,7 +8,6 @@
 [![telegram](https://img.icons8.com/color/40/000000/telegram-app--v5.png)](https://t.me/tombsDevil)
 [![twiter](https://img.icons8.com/office/40/000000/twitter.png)](https://twitter.com/tombs_Devil?s=09)
 [![Spotify](https://img.icons8.com/color-glass/40/000000/spotify.png)](https://open.spotify.com/user/wycj0ljgmzgs90vdczbhndtea?si=SW5z7-3hSVSozO3XpmkCtA&utm_source=copy-link&dl_branch=1)
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/XahUuB1.gif">
 
 ### **Tecnologias:** 💻
 
