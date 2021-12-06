@@ -42,7 +42,9 @@
 
 ##
  
-#### *Programming as hobby.* 🎩 <a href="https://github.com/tombsDevil"><img align="right" alt="devil" src="https://img.icons8.com/external-skrata-royyan-wijaya/40/35/external-devil-outlaws-halloween-collection-skrata-royyan-wijaya.png"/>
+#### *Programming as hobby.* 🎩 <a href="https://github.com/tombsDevil">
  
 
  ![Snake animation](https://github.com/tombsDevil/tombsDevil/blob/output/github-contribution-grid-snake.svg)
+ 
+ <img align="right" alt="devil" src="https://img.icons8.com/external-skrata-royyan-wijaya/40/35/external-devil-outlaws-halloween-collection-skrata-royyan-wijaya.png"/>
