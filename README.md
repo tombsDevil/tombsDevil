@@ -1,8 +1,12 @@
 ## **Olááá! Sou  o tombstone, seu abiguinho!** 🖤 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tombsDevil&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/tombsDevil">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tombsDevil&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tombsDevil&theme=radical&layout=compact"/>
+</div>
 
-### **Contato:** 💼
+ ### **Contato:** 💼
 
 [![Discord](https://img.icons8.com/color/40/000000/discord-logo.png)](https://discord.gg/82ZUuSdF2q)
 [![telegram](https://img.icons8.com/color/40/000000/telegram-app--v5.png)](https://t.me/tombsDevil)
