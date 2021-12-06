@@ -1,46 +1,46 @@
-## **Olááá! Sou  o tombstone, seu abiguinho!** 🖤 
+# **Olááá! Sou  o tombstone, seu abiguinho!** 🖤 
 
-  <div align="left">
-  <a href="https://github.com/tombsDevil">
+<div align="left">
+ <a href="https://github.com/tombsDevil">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tombsDevil&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tombsDevil&theme=radical&layout=compact"/>
  </div>
 
  ### **Contato:** 💼
 
-[![Discord](https://img.icons8.com/color/40/000000/discord-logo.png)](https://discord.gg/82ZUuSdF2q)
-[![telegram](https://img.icons8.com/color/40/000000/telegram-app--v5.png)](https://t.me/tombsDevil)
-[![twiter](https://img.icons8.com/office/40/000000/twitter.png)](https://twitter.com/tombs_Devil?s=09)
-[![Spotify](https://img.icons8.com/color-glass/40/000000/spotify.png)](https://open.spotify.com/user/wycj0ljgmzgs90vdczbhndtea?si=SW5z7-3hSVSozO3XpmkCtA&utm_source=copy-link&dl_branch=1)
+[![Discord](https://img.icons8.com/color/40/35/discord-logo.svg)](https://discord.gg/82ZUuSdF2q)
+[![telegram](https://img.icons8.com/color/40/35/telegram-app--v5.svg)](https://t.me/tombsDevil)
+[![twiter](https://img.icons8.com/office/40/35/twitter.svg)](https://twitter.com/tombs_Devil?s=09)
+[![Spotify](https://img.icons8.com/color-glass/40/35/spotify.svg)](https://open.spotify.com/user/wycj0ljgmzgs90vdczbhndtea?si=SW5z7-3hSVSozO3XpmkCtA&utm_source=copy-link&dl_branch=1)
 
 ### **Tecnologias:** 💻
 
 <div style="display: inline_block"><br/>
- <img align="center" alt="javascript" src="https://img.icons8.com/color/40/000000/javascript--v1.png" />
- <img align="center" alt="css3" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/000000/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo.png" />
- <img align="center" alt="html5" src="https://img.icons8.com/color/40/000000/html-5--v1.png" />
- <img align="center" alt="mongoDB" src="https://img.icons8.com/color/40/000000/mongodb.png" />
- <img align="center" alt="node.js" src="https://img.icons8.com/color/40/000000/nodejs.png" />
+ <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> 
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+ <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
+ <img align="center" alt="node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
+ <img align="center" alt="mongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
 <div><br/>
 
 ### **Ferramentas:** 🚀
 
-<div style="display: inline_block"><br/>
- <img align="center" alt="vscode" src="https://img.icons8.com/nolan/40/visual-studio-code-2019.png" />
- <img align="center" alt="linux" src="https://img.icons8.com/dusk/40/000000/linux.png"/>
- <img align="center" alt="gimp" src="https://img.icons8.com/dusk/40/000000/gimp.png" />
- <img align="center" alt="notion" src="https://img.icons8.com/dusk/40/000000/notion.png" />
- <img align="center" alt="notebook" src="https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/40/000000/external-notebook-gadget-photo3ideastudio-lineal-color-photo3ideastudio.png" />
- <img align="center" alt="smartphone" src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/40/000000/external-phone-essentials-icongeek26-outline-gradient-icongeek26.png" />
+<div style="display: inline_block"><br/><a href="https://github.com/tombsDevil">
+ <img align="center" alt="vscode" src="https://img.icons8.com/nolan/40/35/visual-studio-code-2019.png" />
+ <img align="center" alt="linux" src="https://img.icons8.com/dusk/40/35/linux.png"/>
+ <img align="center" alt="gimp" src="https://img.icons8.com/dusk/40/35/gimp.png" />
+ <img align="center" alt="notion" src="https://img.icons8.com/dusk/40/35/notion.png" />
+ <img align="center" alt="notebook" src="https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/40/35/external-notebook-gadget-photo3ideastudio-lineal-color-photo3ideastudio.png" />
+ <img align="center" alt="smartphone" src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/40/35/external-phone-essentials-icongeek26-outline-gradient-icongeek26.png" />
 <div><br/>
 
- ## 
-
-*Programming as hobby.* 🎩
+ ##
+  
+*Programming as hobby.* 🎩 <img align="right" alt="devil" src="https://img.icons8.com/external-skrata-royyan-wijaya/40/35/external-devil-outlaws-halloween-collection-skrata-royyan-wijaya.png"/>
 
  
  ![Snake animation](https://github.com/tombsDevil/tombsDevil/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
