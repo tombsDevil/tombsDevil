@@ -12,12 +12,13 @@
 [![telegram](https://img.icons8.com/color/40/35/telegram-app--v5.svg)](https://t.me/tombsDevil)
 [![twiter](https://img.icons8.com/office/40/35/twitter.svg)](https://twitter.com/tombs_Devil?s=09)
 [![Spotify](https://img.icons8.com/color-glass/40/35/spotify.svg)](https://open.spotify.com/user/wycj0ljgmzgs90vdczbhndtea?si=SW5z7-3hSVSozO3XpmkCtA&utm_source=copy-link&dl_branch=1)
- <img align="right"  height="165" width="165" src="https://i.imgur.com/pP0APer.gif" />
- 
+ <a href="https://github.com/tombsDevil"/>
+<img align="right"  height="200" width="165" src="https://i.imgur.com/pP0APer.gif" />
+ <a>
 
 ### **Tecnologias:** 💻
 
-<div style="display: inline_block"><br/> <a href="https://github.com/tombsDevil"/>
+<div style="display: inline_block"><br/>
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> 
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
