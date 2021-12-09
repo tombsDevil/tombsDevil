@@ -27,15 +27,14 @@
 
 <div><br/>
 
-### **Ferramentas:**
-
+### **Ferramentas:** 🚀
 <div style="display: inline_block"><br/> <a href="https://github.com/tombsDevil"/>
  <img align="center" alt="vscode" src="https://img.icons8.com/nolan/40/35/visual-studio-code-2019.png" />
  <img align="center" alt="linux" src="https://img.icons8.com/dusk/40/35/linux.png"/>
  <img align="center" alt="gimp" src="https://img.icons8.com/dusk/40/35/gimp.png" />
  <img align="center" alt="notion" src="https://img.icons8.com/dusk/40/35/notion.png" />
  <img align="center" alt="notebook" src="https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/40/35/external-notebook-gadget-photo3ideastudio-lineal-color-photo3ideastudio.png" />
- <img align="center" alt="smartphone" src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/40/35/external-phone-essentials-icongeek26-outline-gradient-icongeek26.png" />
+ <img align="center" alt="smartphone" src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/35/35/external-phone-essentials-icongeek26-outline-gradient-icongeek26.png" />
 
 <div><br/>
 <a>
