@@ -8,7 +8,7 @@
 
  ### **Contato:** 💼
 
-[![Discord](https://img.icons8.com/color/40/35/discord-logo.svg)](https://discord.gg/82ZUuSdF2q)
+[![Discord](https://img.icons8.com/color/40/35/discord-logo.svg)]()
 [![telegram](https://img.icons8.com/color/40/35/telegram-app--v5.svg)](https://t.me/tombsDevil)
 [![twiter](https://img.icons8.com/office/40/35/twitter.svg)](https://twitter.com/tombs_Devil?s=09)
 [![Spotify](https://img.icons8.com/color-glass/40/35/spotify.svg)](https://open.spotify.com/user/wycj0ljgmzgs90vdczbhndtea?si=SW5z7-3hSVSozO3XpmkCtA&utm_source=copy-link&dl_branch=1)
